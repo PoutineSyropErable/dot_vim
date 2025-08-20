@@ -7,5 +7,7 @@ git submodule add "https://github.com/vim-airline/vim-airline.git" "plugged/vim-
 git submodule add "https://github.com/preservim/nerdcommenter.git" "plugged/nerdcommenter"
 git submodule add "https://github.com/junegunn/fzf.vim.git" "plugged/fzf.vim"
 git submodule add "https://github.com/junegunn/fzf.git" "plugged/fzf"
+git submodule add "https://github.com/AckslD/nvim-neoclip.lua.git" "plugged/nvim-neoclip.lua"
+git submodule add "https://github.com/ryanoasis/vim-devicons.git" "plugged/vim-devicons"
 git submodule add "https://github.com/catppuccin/vim" "vim"
 git submodule add "https://github.com/PoutineSyropErable/dot_vim" "."
