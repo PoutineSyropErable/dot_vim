@@ -1,29 +1,32 @@
 [submodule "plugged/coc.nvim"]
-	path = plugged/coc.nvim
-	url = https://github.com/neoclide/coc.nvim.git
+    path = plugged/coc.nvim
+    url = https://github.com/neoclide/coc.nvim.git
 
 [submodule "plugged/vim-airline-themes"]
-	path = plugged/vim-airline-themes
-	url = https://github.com/vim-airline/vim-airline-themes.git
+    path = plugged/vim-airline-themes
+    url = https://github.com/vim-airline/vim-airline-themes.git
 
 [submodule "plugged/vim-airline"]
-	path = plugged/vim-airline
-	url = https://github.com/vim-airline/vim-airline.git
+    path = plugged/vim-airline
+    url = https://github.com/vim-airline/vim-airline.git
 
 [submodule "plugged/nerdcommenter"]
-	path = plugged/nerdcommenter
-	url = https://github.com/preservim/nerdcommenter.git
+    path = plugged/nerdcommenter
+    url = https://github.com/preservim/nerdcommenter.git
 
 [submodule "plugged/fzf.vim"]
-	path = plugged/fzf.vim
-	url = https://github.com/junegunn/fzf.vim.git
+    path = plugged/fzf.vim
+    url = https://github.com/junegunn/fzf.vim.git
 
 [submodule "plugged/fzf"]
-	path = plugged/fzf
-	url = https://github.com/junegunn/fzf.git
+    path = plugged/fzf
+    url = https://github.com/junegunn/fzf.git
 
 [submodule "vim"]
-	path = vim
-	url = https://github.com/catppuccin/vim
+    path = vim
+    url = https://github.com/catppuccin/vim
 
+[submodule "."]
+    path = .
+    url = https://github.com/PoutineSyropErable/dot_vim
 
