@@ -58,7 +58,4 @@
     path = vim
     url = https://github.com/catppuccin/vim
 
-[submodule "."]
-    path = .
-    url = https://github.com/PoutineSyropErable/dot_vim
 
