@@ -33,7 +33,7 @@ while IFS= read -r gitdir; do
 		echo >>"$GITMODULES"
 
 		# Write the git submodule add command
-		echo "git submodule add \"$url\" \"$rel_path\"" >>"$ADDSCRIPT"
+		echo "git submodule add \"$url\" \"$rel_path\"" " || echo cant add $rel_path" >>"$ADDSCRIPT"
 	fi
 done < <(find "$ROOT" -type d -name ".git")
 

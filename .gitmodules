@@ -1,38 +1,62 @@
 [submodule "plugged/coc.nvim"]
-	path = plugged/coc.nvim
-	url = https://github.com/neoclide/coc.nvim.git
+    path = plugged/coc.nvim
+    url = https://github.com/neoclide/coc.nvim.git
 
 [submodule "plugged/vim-airline-themes"]
 	path = plugged/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
 
 [submodule "plugged/vim-airline"]
-	path = plugged/vim-airline
-	url = https://github.com/vim-airline/vim-airline.git
+    path = plugged/vim-airline
+    url = https://github.com/vim-airline/vim-airline.git
 
 [submodule "plugged/nerdcommenter"]
 	path = plugged/nerdcommenter
 	url = https://github.com/preservim/nerdcommenter.git
 
 [submodule "plugged/fzf.vim"]
-	path = plugged/fzf.vim
-	url = https://github.com/junegunn/fzf.vim.git
+    path = plugged/fzf.vim
+    url = https://github.com/junegunn/fzf.vim.git
 
 [submodule "plugged/fzf"]
 	path = plugged/fzf
 	url = https://github.com/junegunn/fzf.git
 
 [submodule "plugged/nvim-neoclip.lua"]
-	path = plugged/nvim-neoclip.lua
-	url = https://github.com/AckslD/nvim-neoclip.lua.git
+    path = plugged/nvim-neoclip.lua
+    url = https://github.com/AckslD/nvim-neoclip.lua.git
 
 [submodule "plugged/vim-devicons"]
 	path = plugged/vim-devicons
 	url = https://github.com/ryanoasis/vim-devicons.git
 
+[submodule "plugged/vim-lsp"]
+    path = plugged/vim-lsp
+    url = https://github.com/prabirshrestha/vim-lsp.git
+
+[submodule "plugged/asyncomplete-lsp.vim"]
+	path = plugged/asyncomplete-lsp.vim
+	url = https://github.com/prabirshrestha/asyncomplete-lsp.vim.git
+
+[submodule "plugged/vim-lsp-settings"]
+    path = plugged/vim-lsp-settings
+    url = https://github.com/prabirshrestha/vim-lsp-settings.git
+
+[submodule "plugged/asyncomplete.vim"]
+	path = plugged/asyncomplete.vim
+	url = https://github.com/prabirshrestha/asyncomplete.vim.git
+
+[submodule "plugged/vim-commentary"]
+    path = plugged/vim-commentary
+    url = https://github.com/tpope/vim-commentary.git
+
+[submodule "plugged/vim-polyglot"]
+	path = plugged/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
+
 [submodule "vim"]
-	path = vim
-	url = https://github.com/catppuccin/vim
+    path = vim
+    url = https://github.com/catppuccin/vim
 
 [submodule "."]
     path = .
